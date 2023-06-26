@@ -6,12 +6,7 @@
 - This web based Hospital Information Management System application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,
   Quess, Github and EY.
   </br>
-
-## **`TEAM MEMBER DETAILS`**
-
-**TEAM MEMBER NAME** - [`KARNASULA SAI SRI PRAVALLIKA`] [`GITHUB URL`](https://github.com/pravallika1309) </br>
-**TEAM MEMBER NAME** - [`KANCHARLA LAKSHMI MADHAVI`] [`GITHUB URL`](https://github.com/20a31a4212) </br>
-**TEAM MEMBER NAME** - [`PATTABHI RAMA LINGESWAR PEDDIREDDY`] [`GITHUB URL`](https://github.com/pattabhi03) </br>
+  
 
 ## **`Azure technologies`** used For this Project
 
@@ -34,35 +29,6 @@
 - Included the Health Bot to know Health related issues from the AI-powered virtual health assistants
   </br>
 
-## SCREENSHOTS 📸
-
-### `Home Page`
-
-![Home](readmeimgs/1.png)
-
-### `MEDICAL RECORD PAGE`
-
-![medicalrecord](readmeimgs/2.png)
-
-### `PATIENTS REGISTRATION PAGE`
-
-![registration1](readmeimgs/3.png)
-
-![registration2 (2)](readmeimgs/4.png)
-
-### `PATIENTS PROFILE PAGE`
-
-![profile](readmeimgs/5.png)
-
-### `CONTACT US PAGE`
-
-![contact us](readmeimgs/6.png)
-
-### `Healthbot PAGE`
-
-![healthbot](readmeimgs/7.png)
-
-</br>
 
 ## TECH STACK 💻
 
